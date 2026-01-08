@@ -80,20 +80,6 @@ The user must provide the following parameters:
 
 ---
 
-## 📁 Project Structure
-
-heat-stress-prediction/
-│── data/
-│ └── weather_data.csv
-│── notebooks/
-│ └── heat_index_model.ipynb
-│── app/
-│ └── app.py
-│── README.md
-│── requirements.txt
-
-
----
 
 ## ⚠️ Disclaimer
 
