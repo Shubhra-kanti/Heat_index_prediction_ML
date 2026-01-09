@@ -29,7 +29,7 @@ The user must provide the following parameters:
 |----------|------------|------|
 | Air Temperature | Ambient atmospheric temperature | °C |
 | Relative Humidity | Moisture content in air | % |
-| Wind Speed | Speed of air movement | m/s |
+| Wind Speed | Speed of air movement | km/h |
 
 ---
 
